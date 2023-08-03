@@ -28,6 +28,8 @@ at Samsung Research)
 
 #### - B.S. in ECE from SNU, Feb. 2017
 
+#### - Hyundai Chung-Un High School, Feb. 2013
+
 ---
 ## Research Interest
 - **IEEE 802.11 WLAN, MAC and PHY layer**
@@ -177,6 +179,7 @@ SAMSUNG Electronics, 2017–2019.
 ## Lectures
 
 * "ns-3 Intensive Course" at KICS, Feb. 2021.
+* "ns-3 Intensive Course" at KICS, Feb. 2020.
 * "ns-3 Intensive Course" at KICS, Feb. 2019.
 * "ns-3 Intensive Course" at KICS, Feb. 2018.
 * "Network Protocol Design" at SNU, Oct. 2019.
