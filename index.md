@@ -1,5 +1,6 @@
 
-# [About Me](index) | [CV](CV_khlee_23.pdf)
+# [About Me](index)
+<!-- # [About Me](index) | [CV](CV_khlee_23.pdf) -->
 
 ---
 ## Profile
