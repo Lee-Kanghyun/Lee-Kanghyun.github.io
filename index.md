@@ -12,7 +12,7 @@ Seoul National University [(SNU)](https://snu.ac.kr)\
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)\
 E-mail: (You can use either email address to reach me.)\
     - **khlee /at/ netlab.snu.ac.kr**\
-    - **winnie7150 /at/ snu.ac.kr**\
+    - **winnie7150 /at/ snu.ac.kr**
 
 ---
 ## Education
@@ -181,7 +181,6 @@ SAMSUNG Electronics, 2017–2019.
 * "ns-3 Intensive Course" at KICS, Feb. 2021.
 * "ns-3 Intensive Course" at KICS, Feb. 2020.
 * "ns-3 Intensive Course" at KICS, Feb. 2019.
-* "ns-3 Intensive Course" at KICS, Feb. 2018.
 * "Network Protocol Design" at SNU, Oct. 2019.
 * "Network Protocol Design" at SNU, Oct. 2018.
 * "Network Protocol Design" at SNU, Oct. 2017.
