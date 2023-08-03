@@ -36,6 +36,8 @@ at Samsung Research)
 
 - **Spatial Reuse, Wide-band Operation, Channel, Mobility**
 
+- **AI and machine learning for wireless communication**
+
 ---
 ## Current Collaborators
 
