@@ -1,5 +1,5 @@
 
-# [About Me](index) | [CV](CV_swhwang_22.pdf)
+# [About Me](index) | [CV](CV_khlee_23.pdf)
 
 ---
 ## Profile
@@ -10,13 +10,13 @@ Department of Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)
 Seoul National University [(SNU)](https://snu.ac.kr)\
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)\
 E-mail: (You can use either email address to reach me.)\
-    - **swhwang /at/ netlab.snu.ac.kr**\
-    - **sunwookh /at/ snu.ac.kr**
+    - **khlee /at/ netlab.snu.ac.kr**\
+    - **winnie7150 /at/ snu.ac.kr**
 
 ---
 ## Education
 
-#### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2016 to present
+#### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2017 to present
 * Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)\
 (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is currently a Senior Vice President and Head of Advanced Communications Research Center
 at Samsung Research)
@@ -25,19 +25,18 @@ at Samsung Research)
 <!-- * Area of Research: Network Systems & Wireless Communications
  -->
 
-#### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
+#### - B.S. in ECE from SNU, Feb. 2017
 
 ---
 ## Research Interest
-- **Distributed learning, 3D object detection for autonomous vehicles**
+- **IEEE 802.11 WLAN, MAC and PHY layer**
 
-- **Protocol design for V2X communications and 5G New Radio (NR)**
+- **Spatial Reuse, Wide-band Operation, Channel, Mobility**
 
 ---
 ## Current Collaborators
 
-#### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
-#### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
+#### - [Youngwook Son](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/alumni/youngwook-son) (Research Engineer, System LSI, SAMSUNG Electronics)
 
 ---
 ## Journals & Conferences
