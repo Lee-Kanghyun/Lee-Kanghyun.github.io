@@ -51,7 +51,7 @@ Recovering CSI and Data in Dense Network Environments using IEEE 802.11 ax Midam
 * **[ACM MobiHoc 2020]**
 REFRAIN: promoting valid transmission in high-density modern wi-fi networks <br>
 Youngwook Son, **Kanghyun Lee**, Seongwon Kim, Jinmyeong Lee, Sunghyun Choi, and Saewoong Bahk <br>
-**(Acceptance ratio: 30/196 = 15.3%)**
+**(Acceptance ratio: 15.3% = 30/196)**
 
 * **[ACM MobiHoc 2019]**
 Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi <br>
