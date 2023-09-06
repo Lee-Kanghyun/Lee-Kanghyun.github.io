@@ -100,7 +100,8 @@ Jinmyeong Lee, **Kanghyun Lee**, Yonghun Lee, Seongjoon Kang, Byungjun Kim, and 
 * Wireless communication devices for transmitting data using spatial reuse and data communication methods using the same\
 Jonghun Han, Youngwook Son, Sunghyun Choi, Seongwon Kim, and **Kanghyun Lee**\
 **US 11,381,366 B2**, Jul. 2022.\
-Korean Patents Application 10-2018-0141957, filed Nov. 2018, Patent Pending.
+**Korean Patent 10-2572878**, Sep. 2023.
+<!-- Korean Patents Application 10-2018-0141957, filed Nov. 2018, Patent Pending. -->
 
 * Method for channel determination based on midamble and apparatus for performing the method\
 **Kanghyun Lee**, Jongyeon Park, Jinmyeong Lee, and Saewoong Bahk\
