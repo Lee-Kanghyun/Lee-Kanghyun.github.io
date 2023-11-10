@@ -105,7 +105,8 @@ Jonghun Han, Youngwook Son, Sunghyun Choi, Seongwon Kim, and **Kanghyun Lee**\
 
 * Method for channel determination based on midamble and apparatus for performing the method\
 **Kanghyun Lee**, Jongyeon Park, Jinmyeong Lee, and Saewoong Bahk\
-Korean Patents Application 10-2021-0007298, filed Jan. 2021, Patent Pending.
+**Korean Patent 10-2600192**, Nov. 2023.
+<!-- Korean Patents Application 10-2021-0007298, filed Jan. 2021, Patent Pending. -->
 
 * Method for operation of AP(access point) using DAS(distributed antenna system) and apparatus for performing the method\
 Jongyeon Park, **Kanghyun Lee**, Yelin Yoon, and Saewoong Bahk\
