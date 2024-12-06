@@ -46,6 +46,11 @@ at Samsung Research)
 ---
 ## Journals & Conferences
 
+* **[IEEE INFOCOM 2025]**
+Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness <br>
+**Kanghyun Lee**, Youngwook Son, Jongyeon Park, and Saewoong Bahk <br>
+**(Acceptance ratio: 18.7% = 272/1458)**
+
 * **[IEEE ACCESS 2023]**
 Recovering CSI and Data in Dense Network Environments using IEEE 802.11 ax Midamble <br>
 **Kanghyun Lee**, Juhun Shin, Jongyeon Park, Youngwook Son, and Saewoong Bahk
