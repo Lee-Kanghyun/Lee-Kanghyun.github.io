@@ -106,16 +106,14 @@ Jinmyeong Lee, **Kanghyun Lee**, Yonghun Lee, Seongjoon Kang, Byungjun Kim, and 
 Jonghun Han, Youngwook Son, Sunghyun Choi, Seongwon Kim, and **Kanghyun Lee**\
 **US 11,381,366 B2**, Jul. 2022.\
 **Korean Patent 10-2572878**, Sep. 2023.
-<!-- Korean Patents Application 10-2018-0141957, filed Nov. 2018, Patent Pending. -->
+
+* Method for operation of AP(access point) using DAS(distributed antenna system) and apparatus for performing the method\
+Jongyeon Park, **Kanghyun Lee**, Yelin Yoon, and Saewoong Bahk\
+**Korean Patent 10-2594039**, Oct. 2023.
 
 * Method for channel determination based on midamble and apparatus for performing the method\
 **Kanghyun Lee**, Jongyeon Park, Jinmyeong Lee, and Saewoong Bahk\
 **Korean Patent 10-2600192**, Nov. 2023.
-<!-- Korean Patents Application 10-2021-0007298, filed Jan. 2021, Patent Pending. -->
-
-* Method for operation of AP(access point) using DAS(distributed antenna system) and apparatus for performing the method\
-Jongyeon Park, **Kanghyun Lee**, Yelin Yoon, and Saewoong Bahk\
-Korean Patents Application 10-2021-0012976, filed Jan. 2021, Patent Pending.
 
 <!-- * Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
