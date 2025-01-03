@@ -107,13 +107,13 @@ Jonghun Han, Youngwook Son, Sunghyun Choi, Seongwon Kim, and **Kanghyun Lee**\
 **US 11,381,366 B2**, Jul. 2022.\
 **Korean Patent 10-2572878**, Sep. 2023.
 
-* Method for operation of AP(access point) using DAS(distributed antenna system) and apparatus for performing the method\
-Jongyeon Park, **Kanghyun Lee**, Yelin Yoon, and Saewoong Bahk\
-**Korean Patent 10-2594039**, Oct. 2023.
-
 * Method for channel determination based on midamble and apparatus for performing the method\
 **Kanghyun Lee**, Jongyeon Park, Jinmyeong Lee, and Saewoong Bahk\
 **Korean Patent 10-2600192**, Nov. 2023.
+
+* Method for operation of AP(access point) using DAS(distributed antenna system) and apparatus for performing the method\
+Jongyeon Park, **Kanghyun Lee**, Yelin Yoon, and Saewoong Bahk\
+**Korean Patent 10-2594039**, Oct. 2023.
 
 <!-- * Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
