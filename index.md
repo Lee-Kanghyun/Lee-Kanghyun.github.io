@@ -5,7 +5,7 @@
 ---
 ## Profile
 
-### Ph.D. Candidate
+### Ph.D.
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)\
 Department of Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
 Seoul National University [(SNU)](https://snu.ac.kr)\
@@ -17,12 +17,16 @@ E-mail: (You can use either email address to reach me.)\
 ---
 ## Education
 
-#### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2017 to present
-* Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)\
-(Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is currently a Senior Vice President and Head of Advanced Communications Research Center
-at Samsung Research)
+#### - Ph.D. in ECE from SNU in Feb. 2025
 
-* Ubiquitous Network Laboratory in Seoul National University (NETLAB)
+- **Advisor**
+  - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
+  - **[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)**, Advisor before moving to NETLAB\
+   (Currently Corporate EVP and Head of Advanced R&D Team, Samsung Networks)
+<!-- * Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)\
+(Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is currently a Corporate EVP and Head of Advanced R&D Team, Samsung Networks) -->
+<!-- 
+* Ubiquitous Network Laboratory in Seoul National University (NETLAB) -->
 <!-- * Area of Research: Network Systems & Wireless Communications
  -->
 
