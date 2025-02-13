@@ -23,12 +23,6 @@ E-mail: (You can use either email address to reach me.)\
   - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
   - **[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)**, Advisor before moving to NETLAB\
    (Currently Corporate EVP and Head of Advanced R&D Team, Samsung Networks)
-<!-- * Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)\
-(Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is currently a Corporate EVP and Head of Advanced R&D Team, Samsung Networks) -->
-<!-- 
-* Ubiquitous Network Laboratory in Seoul National University (NETLAB) -->
-<!-- * Area of Research: Network Systems & Wireless Communications
- -->
 
 #### - B.S. in ECE from SNU, Feb. 2017
 
